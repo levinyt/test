@@ -1,0 +1,28 @@
+.Welcome{
+    background-color: hsl(120, 59%, 37%);
+    border-radius: 30px;
+    margin-top:30px;
+    padding-top: 20px;
+    height: 50px;
+    display:flex;
+    justify-content:center;
+    color:white;
+    
+    flex-direction: row;
+
+
+}
+.Login{
+    background-color: hsl(2, 66%, 45%);
+    border-radius: 30px;
+    margin-top:30px;
+    padding-top: 20px;
+    height: 50px;
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    color:white;
+
+
+    
+}
